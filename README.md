@@ -2,7 +2,7 @@
 
 ## Setting up a Windows VM using QEMU
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HindiaFtNpc/WindowsLinucx/main/media/8731aff209e78665c65cafbf51a9c00e.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://raw.githubusercontent.com/NeofetchNpc/bios-windows/refs/heads/main/media/8731aff209e78665c65cafbf51a9c00e.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 > Run Sh as usual and don't forget to change the config.json!
