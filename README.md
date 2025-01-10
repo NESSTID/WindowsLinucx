@@ -10,7 +10,7 @@
 cd /tmp && sudo rm -r * && clear
 ```
 ```bash
-wget -O win.iso "https://go.microsoft.com/fwlink/?linkid=2270353&clcid=0x409&culture=en-us&country=us"
+wget -O win.iso "https://releases.ubuntu.com/24.04.1/ubuntu-24.04.1-desktop-amd64.iso?_ga=2.192513642.1521229978.1735122418-1726130985.1735122418&_gl=1*10kgyxo*_gcl_au*MTY1ODE5MDIxNy4xNzM1MTIyNDIw"
 ```
 ```bash
 wget https://github.com/NESSTID/WindowsLinucx/raw/refs/heads/main/bios64.bin
