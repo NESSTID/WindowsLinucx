@@ -36,3 +36,15 @@ https://playit-cloud.github.io/ppa/data ./" | sudo tee \
 sudo apt update
 sudo apt install playit -y
 ```
+
+### 2 Mothod
+
+```bash
+qemu-img create -f qcow2 -o preallocation=full win10.qcow2 20G
+```
+```bash
+qemu-system-x86_64 -drive file=./win10.qcow2 -cdrom ~/Downloads/Win10_22H2_English_x64.iso  -m 4096 --enable-kvm
+```
+```bash
+./qemu-system-x86_64 -drive file=./win10.qcow2 -m 4096 --enable-kvm
+```
